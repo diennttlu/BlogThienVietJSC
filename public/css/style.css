@@ -1,0 +1,16 @@
+.categories_name h4 {
+    font-size: 30px;
+    color: #0072bc;
+}
+.categories_name  a {
+    border: 1px solid #e0e0e0;
+    padding: 5px 10px;
+    margin-right: 3px;
+    display: block;
+    text-align: center;
+    border-radius: 20px;
+}
+.categories_name  a:hover {
+    background-color: blue;
+    color: white;
+}
